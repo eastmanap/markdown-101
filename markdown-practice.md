@@ -1,5 +1,5 @@
 ## Apollos Eastman
-### Web & App Development
+### Web & App Dev. PM
 ---
 | Class Name       | Teacher             |
 |------------------|---------------------|
